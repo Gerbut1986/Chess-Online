@@ -1,0 +1,18 @@
+C:\Users\agerb\Downloads\VideoSharp(Волосатов Евгений )\CHESS PROJECT\ChessRules(ClassLibrary)\ChessRules(ClassLibrary)\bin\Debug\ChessRules(ClassLibrary).dll
+C:\Users\agerb\Downloads\VideoSharp(Волосатов Евгений )\CHESS PROJECT\ChessRules(ClassLibrary)\ChessRules(ClassLibrary)\bin\Debug\ChessRules(ClassLibrary).pdb
+C:\Users\agerb\Downloads\VideoSharp(Волосатов Евгений )\CHESS PROJECT\ChessRules(ClassLibrary)\ChessRules(ClassLibrary)\obj\Debug\ChessRules(ClassLibrary).csproj.CoreCompileInputs.cache
+C:\Users\agerb\Downloads\VideoSharp(Волосатов Евгений )\CHESS PROJECT\ChessRules(ClassLibrary)\ChessRules(ClassLibrary)\obj\Debug\ChessRules(ClassLibrary).dll
+C:\Users\agerb\Downloads\VideoSharp(Волосатов Евгений )\CHESS PROJECT\ChessRules(ClassLibrary)\ChessRules(ClassLibrary)\obj\Debug\ChessRules(ClassLibrary).pdb
+C:\Users\agerb\Downloads\VideoSharp(Волосатов Евгений )\CHESS PROJECT\ChessRules(ClassLibrary)\ChessRules(ClassLibrary)\obj\Debug\ChessRules(ClassLibrary).csprojAssemblyReference.cache
+C:\Users\agerb\Downloads\Chess (Project)\ChessRules(ClassLibrary)\ChessRules(ClassLibrary)\bin\Debug\ChessRules(ClassLibrary).dll
+C:\Users\agerb\Downloads\Chess (Project)\ChessRules(ClassLibrary)\ChessRules(ClassLibrary)\bin\Debug\ChessRules(ClassLibrary).pdb
+C:\Users\agerb\Downloads\Chess (Project)\ChessRules(ClassLibrary)\ChessRules(ClassLibrary)\obj\Debug\ChessRules(ClassLibrary).csprojAssemblyReference.cache
+C:\Users\agerb\Downloads\Chess (Project)\ChessRules(ClassLibrary)\ChessRules(ClassLibrary)\obj\Debug\ChessRules(ClassLibrary).csproj.CoreCompileInputs.cache
+C:\Users\agerb\Downloads\Chess (Project)\ChessRules(ClassLibrary)\ChessRules(ClassLibrary)\obj\Debug\ChessRules(ClassLibrary).dll
+C:\Users\agerb\Downloads\Chess (Project)\ChessRules(ClassLibrary)\ChessRules(ClassLibrary)\obj\Debug\ChessRules(ClassLibrary).pdb
+C:\Users\agerb\Downloads\VideoSharp(Волосатов Евгений)\Chess (Project)\ChessRules(ClassLibrary)\ChessRules(ClassLibrary)\bin\Debug\ChessRules(ClassLibrary).dll
+C:\Users\agerb\Downloads\VideoSharp(Волосатов Евгений)\Chess (Project)\ChessRules(ClassLibrary)\ChessRules(ClassLibrary)\bin\Debug\ChessRules(ClassLibrary).pdb
+C:\Users\agerb\Downloads\VideoSharp(Волосатов Евгений)\Chess (Project)\ChessRules(ClassLibrary)\ChessRules(ClassLibrary)\obj\Debug\ChessRules(ClassLibrary).csproj.CoreCompileInputs.cache
+C:\Users\agerb\Downloads\VideoSharp(Волосатов Евгений)\Chess (Project)\ChessRules(ClassLibrary)\ChessRules(ClassLibrary)\obj\Debug\ChessRules(ClassLibrary).dll
+C:\Users\agerb\Downloads\VideoSharp(Волосатов Евгений)\Chess (Project)\ChessRules(ClassLibrary)\ChessRules(ClassLibrary)\obj\Debug\ChessRules(ClassLibrary).pdb
+C:\Users\agerb\Downloads\VideoSharp(Волосатов Евгений)\Chess (Project)\ChessRules(ClassLibrary)\ChessRules(ClassLibrary)\obj\Debug\ChessRules(ClassLibrary).csprojAssemblyReference.cache
